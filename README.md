@@ -1,2 +1,2 @@
 # Design-Patterns
-Design Patterns Implementations Using Go,C#,Java,Rust,JS,TS
+Design Patterns Implementations Using Go,C#,Rust,TS,Python
