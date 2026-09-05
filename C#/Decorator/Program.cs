@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Decorator;
+namespace Decorator{
 class Program
 {
     public static void Main(string[] args)
@@ -12,4 +12,4 @@ class Program
         Console.WriteLine(peperoniWithExtraCost.Name + " " +peperoniWithExtraCost.Cost());
     }
 }
-
+}
